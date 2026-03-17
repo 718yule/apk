@@ -1,1 +1,1 @@
-https://github.com/718yule/apk/new/main
+https://raw.githubusercontent.com/718yule/apk/refs/heads/main/addr.txt
