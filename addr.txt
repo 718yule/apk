@@ -1,1 +1,1 @@
-https://bak.gjpggts.com/api.php
+https://test-hl718-api-1.test4.cc/api.php
